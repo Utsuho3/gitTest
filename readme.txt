@@ -9,6 +9,7 @@ step5: git commit -m "some message, you'd better add it"
 end 
 
 check operation
+git checkout -- fileName: undo the change(must before the 'add' operation)
 git status: show the status
 git diff: show the difference
 git log: show all commit operations
