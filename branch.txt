@@ -1,0 +1,7 @@
+about branch
+
+git branch dev: create a new branch named 'dev'
+git checkout dev: switched to the dev branch
+git checkout -b dev: same fun as upper two commend
+git merge dev: combine branch dev to master branch(need first checkout to the master branch then run this commend)
+git branch: show all branch, the branch with '*' meanings the branch you work with.
