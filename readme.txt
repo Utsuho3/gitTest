@@ -11,3 +11,7 @@ end
 check operation
 git status: show the status
 git diff: show the difference
+git log: show all commit operations
+git reset --hard HEAD^: return to the last Xth commit(accounding to the numbers of '^')
+git reset --hard commit id: return to the exact commit
+git reflog: show all commit id
