@@ -6,3 +6,6 @@ git checkout -b dev: same fun as upper two commend
 git merge dev: combine branch dev to master branch(need first checkout to the master branch then run this commend)
 git branch: show all branch, the branch with '*' meanings the branch you work with.
 about conflict: you need fix the conflict file by yourself
+git stash: save the workspace(then use 'git status' will show nothing)
+git stash pop: load workspace
+
